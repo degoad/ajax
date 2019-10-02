@@ -1,0 +1,18 @@
+{
+  "name" : "dokota",
+  "email" : "degoad@lcmail.lcsc.edu"
+  "games_owned" : [
+    {
+      "name" : "the division 2",
+      "console" : "all"
+    },
+    {
+      "name" : "jet set radio future",
+      "console" : "xbox"
+    },
+    {
+      "name" : "skyrim",
+      "console" : "xbox one"
+    }
+  ]
+}
